@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">leakcanaryDemo</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="startlocation">开始定位</string>
+    <string name="stoplocation">停止定位</string>
+</resources>
